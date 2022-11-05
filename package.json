@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "dumi-demo",
-  "version": "1.0.0",
+  "name": "react-china-division",
+  "version": "0.1.0",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -30,7 +30,10 @@
     ]
   },
   "dependencies": {
-    "react": "^18.0.0"
+    "antd": "^4.24.1",
+    "china-division": "^2.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.15.1",
