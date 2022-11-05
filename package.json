@@ -1,7 +1,6 @@
 {
-  "private": true,
   "name": "react-china-division",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -32,6 +31,7 @@
   "dependencies": {
     "antd": "^4.24.1",
     "china-division": "^2.5.0",
+    "copy-anything": "^3.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
