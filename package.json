@@ -2,7 +2,7 @@
   "name": "react-china-division",
   "version": "0.2.0",
   "scripts": {
-    "start": "dumi dev",
+    "dev": "dumi dev",
     "docs:build": "dumi build",
     "docs:deploy": "gh-pages -d docs-dist",
     "build": "father build",

@@ -6,7 +6,7 @@
 import React from 'react';
 import { AddressCascader } from 'react-china-division';
 
-export default () => <AddressCascader key="1" />;
+export default () => <AddressCascader />;
 ```
 
 展示`省市区`的级联:
@@ -15,7 +15,7 @@ export default () => <AddressCascader key="1" />;
 import React from 'react';
 import { AddressCascader } from 'react-china-division';
 
-export default () => <AddressCascader showArea key="2" />;
+export default () => <AddressCascader showArea />;
 ```
 
 <API></API>

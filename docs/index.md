@@ -24,7 +24,7 @@ React + Ts 实现中国省市级联选择器
 
 ## 📝 Case
 
-![](https://img-blog.csdnimg.cn/05a48ceb2820495787316c583fa4174b.png)
+![](https://img-blog.csdnimg.cn/05cf707fc7f24c61b1a5f0680f837ae2.png)
 
 ## 📄 License
 
